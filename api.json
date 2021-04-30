@@ -1,0 +1,46 @@
+[
+  {
+    "precio": 4200,
+    "id": 1,
+    "title": "Harina PAN Blanca x 1000 g",
+    "descripcion": "Es un producto único hecho a base de puro maíz,permite la preparación de deliciosos y variados platos",
+    "thumbnailUrl": "https://i.pinimg.com/originals/f5/bf/04/f5bf048272ce60cc9cef334bdf5533f4.jpg"
+  },
+  {
+    "precio": 1450,
+    "id": 2,
+    "title": "Tomate Peso: 150 - 200 gr",
+    "descripcion":"   Buen peso de frutos conservando el calibre hasta el último racimo. Entrenudos cortos. Peso: 150 - 200 gr",
+    "thumbnailUrl": "https://i.pinimg.com/originals/68/4a/ac/684aac2d436f239d1a1cbd9fcfb8c799.jpg"
+  },
+  {
+    "precio": 4500,
+    "id": 3,
+    "title": "FLUCONAZOL TABLETAS",
+    "descripcion":"ES UN MEDICAMENTO. NO EXCEDER SU CONSUMO. LEER INDICACIONES Y CONTRAINDICACIONES. ",
+    "thumbnailUrl": "https://i.pinimg.com/originals/d8/f8/ee/d8f8eef77b9d0217ff19b86f8d5dbcaa.jpg"
+  },
+  {
+    "precio": 3600,
+    "id": 4,
+    "title": "Agua Brisa Sin Gas x 280ml ",
+    "descripcion":"Siempre das lo mejor de ti, ahora da un extra en la hidratación. Ten siempre agua potable en tu hogar con Agua Brisa",
+    "thumbnailUrl": "https://i.pinimg.com/originals/83/7d/3a/837d3ac507bc98999e85202a7d66ab6d.jpg"
+  },
+  {
+    "precio": 6950,
+    "id": 5,
+    "title": "Papas fritas McCain Rapipapa",
+    "descripcion":"Las papas a la francesa McCain Rapipapa son elaboradas a partir de materia prima natural, 100% Colombiana.",
+    "thumbnailUrl": "https://i.pinimg.com/originals/d8/e9/8b/d8e98b76450ead3e013bc1e3364af21a.jpg"
+  },
+  {
+    "precio": 79890,
+    "id": 6,
+    "title": "Absolut Vodka x 1000 ml",
+    "descripcion":"Absolut es el vodka de mas reconocido en el mundo, destilado al sur de Suecia a partir 100% de trigo de invierno.  ",
+    "thumbnailUrl": "https://i.pinimg.com/originals/2f/6d/9d/2f6d9d01a6738312bd9e8268a8097854.jpg"
+  }
+
+  
+]
